@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\bin\Debug\net7.0\DAL_Personas.deps.json
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\bin\Debug\net7.0\DAL_Personas.dll
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\bin\Debug\net7.0\DAL_Personas.pdb
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\bin\Debug\net7.0\IDAL_Personas.dll
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\bin\Debug\net7.0\Shared.dll
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\bin\Debug\net7.0\IDAL_Personas.pdb
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\bin\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\DAL_Personas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\DAL_Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\DAL_Personas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\DAL_Personas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\DAL_Personas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\DAL_Personas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\DAL_Personas.dll
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\refint\DAL_Personas.dll
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\DAL_Personas.pdb
+C:\Users\Usuario\Desktop\.NET\Practico1\DAL_Personas\obj\Debug\net7.0\ref\DAL_Personas.dll

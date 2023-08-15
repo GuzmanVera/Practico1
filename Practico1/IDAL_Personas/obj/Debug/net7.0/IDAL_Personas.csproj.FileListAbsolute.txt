@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\bin\Debug\net7.0\IDAL_Personas.deps.json
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\bin\Debug\net7.0\IDAL_Personas.dll
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\bin\Debug\net7.0\IDAL_Personas.pdb
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\bin\Debug\net7.0\Shared.dll
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\bin\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\IDAL_Personas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\IDAL_Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\IDAL_Personas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\IDAL_Personas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\IDAL_Personas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\IDAL_Personas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\IDAL_Personas.dll
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\refint\IDAL_Personas.dll
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\IDAL_Personas.pdb
+C:\Users\Usuario\Desktop\.NET\Practico1\IDAL_Personas\obj\Debug\net7.0\ref\IDAL_Personas.dll
